@@ -1,3 +1,2 @@
 # Backend_twitter
-Technolgy 
-Javascript,Nodejs,EJS,MongoDB,AWS server 
+Javascript| Nodejs| EJS| MongoDB| AWS server 
