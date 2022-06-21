@@ -1,3 +1,3 @@
 # Backend_twitter
-Technolgy used
-Nodejs, EJS, MongoDB , AWS server 
+Technolgy 
+Javascript,Nodejs,EJS,MongoDB,AWS server 
